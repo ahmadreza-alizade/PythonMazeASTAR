@@ -1,7 +1,6 @@
 # PythonMazeASTAR
 
-##using
-
+## Using
 ```bash
 python Astar.py
 ```
