@@ -1,8 +1,8 @@
 #
 #made by ahmadreza alizadefard
-#name : maze
+#name : A*
 #version : 1.0
-#data structure : A* A(star)
+#data structure : Priority Queue
 #
 
 import randomname
